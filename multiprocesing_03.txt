@@ -1,0 +1,34 @@
+Script started on 2023-02-03 19:20:30+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="134" LINES="27"]
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git push
+[?2004lUsername for 'https://github.com': jamart25@ucm.es
+Password for 'https://jamart25@ucm.es@github.com': 
+Everything up-to-date
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ cd
+[?2004l[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cp[K[Kmv multiprocesing.txt prpa
+[?2004lmv: cannot stat 'multiprocesing.txt': No such file or directory
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ mv multiprocesing.txt prpa[1@_[1@0[1@2
+[?2004l[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cd prpa
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ ls
+[?2004l0_procesos.py  2_procesos.py  4_procesos.py          multiprocesing_03.txt   README.md
+1_procesos.py  3_procesos.py  multiprocesing_02.txt  multiprocessing_01.txt
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git commit -m "[K[K[K[K[K[K[K[K[K[K[Kadd[Kd .
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git commit -m "Segundo Intento"
+[?2004l[main 1627342] Segundo Intento
+ 2 files changed, 77 insertions(+)
+ create mode 100644 multiprocesing_02.txt
+ create mode 100644 multiprocesing_03.txt
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git push
+[?2004lUsername for 'https://github.com': jamart25@ucm.es
+Password for 'https://jamart25@ucm.es@github.com': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 2.95 KiB | 604.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/jamart25/prpa.git
+   fa15a0e..1627342  main -> main
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ [?2004l
+exit
+
+Script done on 2023-02-03 19:22:37+01:00 [COMMAND_EXIT_CODE="0"]
