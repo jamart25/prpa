@@ -1,0 +1,77 @@
+Script started on 2023-02-03 19:04:16+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="134" LINES="27"]
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ git clone [7mssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDnIBwAuG6a0bDz8srO+d51o3XIa02JIgD1adZfzJWa82WQVOODEpuAzgF4UN6jseJzdBFS2EC[27m[7mP[27m[7mPLDblIF0Wa/K6F/OueYhNiM1pAKf9OzniGV1hnaqDl01GYJegZvwdzldNO1QK1ITrkwpge8E5L7tn0zDgv4rqqcGmksqLob90/jRECakNutuPBuDe31HO1BX6mYZhmQmhny09[27m[7mQ[27m[7mi05d78x8DIDVgOtkmX8H1ddeAoNyUrXZ4rp7BavA7lR0p8Xs2qMRM2d5eTUNgX2mvuOB41+f9ZwrHdqwvYyLLzVJI8X3cvZDqe4ZWHondTH8Hc2XVNlknSOavXJ8KFBxV4Kz+[27m[7m/[27m[7m prpa@prpa[27m[A[A[A]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[Cssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDnIBwAuG6a0bDz8srO+d51o3XIa02JIgD1adZfzJWa82WQVOODEpuAzgF4UN6jseJzdBFS2ECPPLDblIF0Wa/K6F/OueYhNiM1pAKf9OzniGV1hnaqDl01GYJegZvwdzldNO1QK1ITrkwpge8E5L7tn0zDgv4rqqcGmksqLob90/jRECakNutuPBuDe31HO1BX6mYZhmQmhny09Qi05d78x8DIDVgOtkmX8H1ddeAoNyUrXZ4rp7BavA7lR0p8Xs2qMRM2d5eTUNgX2mvuOB41+f9ZwrHdqwvYyLLzVJI8X3cvZDqe4ZWHondTH8Hc2XVNlknSOavXJ8KFBxV4Kz+/[1P prpa@prp[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mhttps://github.com/jamart25/prpa.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/jamart25/prpa.git
+[?2004lCloning into 'prpa'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  33% (1/3)Receiving objects:  66% (2/3)Receiving objects: 100% (3/3)Receiving objects: 100% (3/3), done.
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mDescargas[0m  [01;34mDesktop[0m  [01;34mDocumentos[0m  [01;34mImágenes[0m  multiprocesing_02.txt  [01;34mMúsica[0m  [01;34mPlantillas[0m  [01;34mprpa[0m  [01;34mPúblico[0m  [01;34msnap[0m  [01;31mssh.zip[0m  [01;34mVídeos[0m
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cd prpa
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ cp Descargas/*py .
+[?2004lcp: cannot stat 'Descargas/*py': No such file or directory
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ cp Descargas/*py .[C[1@.[1@.
+[?2004lcp: cannot stat '..Descargas/*py': No such file or directory
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ cd
+[?2004l[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cp Descargas/*py prpa
+[?2004l[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cd prpa
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ ls
+[?2004l0_procesos.py  1_procesos.py  2_procesos.py  3_procesos.py  4_procesos.py  README.md
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ cp Descargas/*txt pr[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd[Kp[Kd
+[?2004l[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cp Descargas/*txtr[K prpa
+[?2004l[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cd prpa
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ las[K[Ks
+[?2004l0_procesos.py  1_procesos.py  2_procesos.py  3_procesos.py  4_procesos.py  multiprocessing_01.txt  README.md
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git add .
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ gu[Kit commit
+[?2004lAuthor identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'prpa@prpa.(none)')
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git config --global user.email jamart25@ucm.es
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git config --gloab[K[Kbv[Kal user.name jamart25
+[?2004l[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git commit "Primer intn[Kento"
+[?2004lerror: pathspec 'Primer intento' did not match any file(s) known to git
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git commit "Primer intento"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kt
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;27r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[25;61H(B[0;7m[ Reading... ](B[m[25;59H(B[0;7m[ Read 15 lines ](B[m[H(B[0;7m  GNU nano 6.2                                      /home/prpa/prpa/.git/COMMIT_EDITMSG                                               [1;133H(B[m[26d(B[0;7m^G(B[m Help[26;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[26;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[26;113H(B[0;7mM-A(B[m Set Mark[27d(B[0;7m^X(B[m Exit[27;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[27;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[27;113H(B[0;7mM-6(B[m Copy[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch main[7d# Your branch is up to date with 'origin/main'.[8d#[9d# Changes to be committed:[10d#[38;5;208m       [36mnew file:   0_procesos.py[11d#[38;5;208m       [36mnew file:   1_procesos.py[12d#[38;5;208m       [36mnew file:   2_procesos.py[13d#[38;5;208m       [36mnew file:   3_procesos.py[14d#[38;5;208m       [36mnew file:   4_procesos.py[15d#[38;5;208m       [36mnew file:   multiprocessing_01.txt[16d#[2d[39m(B[m[?12l[?25h[?25l[1;89H(B[0;7m*[133G(B[m[?12l[?25h[2dP[?25l[?12l[?25hr[?25l[?12l[?25hi[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25hr[?25l[?12l[?25h [?25l[?12l[?25hI[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25ht[?25l[?12l[?25he[?25l[?12l[?25hn[?25l[?12l[?25ht[?25l[?12l[?25ho[?25l[25d(B[0;7mSave modified buffer?                                                                                                                 [26;1H Y(B[m Yes[K[27d(B[0;7m N(B[m No  [27;18H(B[0;7mC(B[m Cancel[K[25;23H[?12l[?25h[?25l[26d(B[0;7m^G(B[m Help[26;34H(B[0;7mM-D(B[m DOS Format[26;67H(B[0;7mM-A(B[m Append[26;100H(B[0;7mM-B(B[m Backup File[27d(B[0;7m^C(B[m Cancel[17G         [27;34H(B[0;7mM-M(B[m Mac Format[27;67H(B[0;7mM-P(B[m Prepend[27;100H(B[0;7m^T(B[m Browse[25d(B[0;7mFile Name to Write: /home/prpa/prpa/.git/COMMIT_EDITMSG(B[m[?12l[?25h[?25l    [1K (B[0;7m[ Writing... ](B[m[K[1;89H(B[0;7m [133G(B[m[25;59H(B[0;7m[ Wrote 15 lines ](B[m[J[27d[?12l[?25h[27;1H[?1049l[23;0;0t[?1l>[?2004l[K[main fa15a0e] Primer intento
+ 6 files changed, 1846 insertions(+)
+ create mode 100644 0_procesos.py
+ create mode 100644 1_procesos.py
+ create mode 100644 2_procesos.py
+ create mode 100644 3_procesos.py
+ create mode 100644 4_procesos.py
+ create mode 100644 multiprocessing_01.txt
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git push
+[?2004lUsername for 'https://github.com': jamart25@ucm.es
+Password for 'https://jamart25@ucm.es@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/jamart25/prpa.git/'
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git commit - m[K[Km "Primer intento"
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ git push
+[?2004lUsername for 'https://github.com': jamart25@ucm.es
+Password for 'https://jamart25@ucm.es@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/jamart25/prpa.git/'
+[?2004h]0;prpa@prpa: ~/prpa[01;32mprpa@prpa[00m:[01;34m~/prpa[00m$ [?2004l
+exit
+
+Script done on 2023-02-03 19:12:32+01:00 [COMMAND_EXIT_CODE="128"]
